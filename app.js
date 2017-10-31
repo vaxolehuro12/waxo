@@ -1,7 +1,7 @@
 const test = require('t');
 
 class Tre {
-  constructor(s) {
+  constructor(s, t) {
     this.s = s;
   }
 }
